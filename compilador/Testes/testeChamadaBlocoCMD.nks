@@ -1,0 +1,65 @@
+var
+#sub
+inicio
+	a recebas 2;
+	
+fim
+
+
+@principale
+	sepah((a>b)) 
+	inicio
+		a recebas b;
+	fim	
+	nem
+	inicio
+		sepah((a>b) ou (a<1))
+		inicio
+			a recebas b*2;
+		fim;
+		a recebas c;
+	fim;
+	sub;
+finale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

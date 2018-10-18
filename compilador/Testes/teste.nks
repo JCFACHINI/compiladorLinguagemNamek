@@ -1,0 +1,64 @@
+var 
+	real na,nb,nc,media;
+	
+
+#subRotina
+inicio
+var inteiro x,y   ;
+	letra z[10] ;
+	
+	
+y recebas 5;
+x recebas y + 1;
+
+enquanto (( x < 10 ))facas
+inicio
+x recebas x + 1;
+fim;
+
+fim
+
+#subOutraRotina
+inicio
+var letra teste;
+inteiro testeNovo;
+	
+	
+testeNovo recebas $hahaha$;
+
+fim
+
+
+@principale
+
+
+
+subRotina;
+
+{ comentarios }
+
+exibas($Digite 3 notas:$);
+leias(na);
+leias(nb);
+leias(nc);
+media recebas (na+nb+nc/3);
+{
+
+
+
+nada
+
+RADOUKEN
+}
+sepah((media>=7))
+inicio
+exibas($Aprovado!$);
+exibas(media);
+fim
+nem
+inicio
+exibas($Reprovado!$);
+fim;
+
+finale
+

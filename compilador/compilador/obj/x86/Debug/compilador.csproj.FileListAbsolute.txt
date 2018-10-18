@@ -1,0 +1,113 @@
+C:\Users\jc\Desktop\compilador\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compilador\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compilador\compilador\obj\x86\Debug\compilador.frmExibeLexico.resources
+D:\compilador\compilador\obj\x86\Debug\compilador.exe
+D:\compilador\compilador\obj\x86\Debug\compilador.pdb
+D:\compilador\compilador\bin\Debug\compilador.exe
+D:\compilador\compilador\bin\Debug\compilador.pdb
+D:\compilador\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+D:\compilador\compilador\obj\x86\Debug\compilador.frmExibeLexico.resources
+D:\compilador\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+D:\compilador\compilador\obj\x86\Debug\compilador.csproj.GenerateResource.Cache
+D:\compiladorSintatico\compilador\obj\x86\Debug\compilador.exe
+D:\compiladorSintatico\compilador\obj\x86\Debug\compilador.pdb
+D:\compiladorSintatico\compilador\bin\Debug\compilador.exe
+D:\compiladorSintatico\compilador\bin\Debug\compilador.pdb
+D:\compiladorSintatico\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+D:\compiladorSintatico\compilador\obj\x86\Debug\compilador.frmExibeLexico.resources
+D:\compiladorSintatico\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+D:\compiladorSintatico\compilador\obj\x86\Debug\compilador.csproj.GenerateResource.Cache
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compiladorSintatico\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\compiladorSintatico\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compiladorArrumandoBugLexico\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorSintatico\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorSintatico\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compiladorSintatico\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compiladorSintatico -Copiando Livro\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\1 bim\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\1 bim\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido - Cópia\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jc\Desktop\compiladorFinale1bim(Lexico-Sintatico)-GrifaLinhaCorrigido\compilador\obj\x86\Debug\compilador.frmExibeSintese.resources
+C:\Users\jc\Desktop\compilador\compilador\obj\x86\Debug\compilador.frmExibeSintese.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\compilador.exe
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\compilador.pdb
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\bin\Debug\compilador.exe
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\bin\Debug\compilador.pdb
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\compilador.frmExibeSintese.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\compilador.frmPrincipal.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\compilador.frmTabSimb.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\compilador.Properties.Resources.resources
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jc\Dropbox\facul\7 termo\Compiladores\2 bim\compilador\compilador\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,29 @@
+var
+	 inteiro x,y;
+	 real x;
+	 letra z[10];
+	
+#subA
+inicio
+	 x recebas y;
+	 exibas(id);
+	 exibas($Bom Dia$);
+	 subA;
+	 leias(id);
+fim
+
+@principale
+	 sepah(~(x>y) ou (x<y) e (x>=y))
+	 inicio
+		 z[5] recebas 4;
+	 fim
+	 nem
+	 inicio
+		
+	 fim;
+	
+	 enquanto((x>y)) facas
+	 inicio
+		
+	 fim;
+finale

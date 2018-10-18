@@ -1,0 +1,88 @@
+var
+	inteiro x,y,z;
+	real a,b,c;
+	letra enta,f,gh[100];
+inteiro vetor[100];
+	
+#subum
+inicio
+	
+var		
+inteiro x,z;
+		real b,c;
+		letra h;
+	leias(x);
+	exibas(x);
+fim
+
+#subdois
+inicio	
+	subdois;
+	x recebas y;
+	c recebas b;
+	b recebas c;
+fim
+
+#subtres
+inicio
+	var
+		inteiro k,h,q,i;
+	leias(k);
+	exibas(k);
+	leias(h);
+	exibas(h);
+	x recebas (x+y);
+	x recebas ((x+y)+(k+4));
+	x recebas ((((k+h)+(q+i))+(k+h))+((q+i)+x));
+	
+exibas(x);
+	sepah((x > 0)) inicio
+		exibas(x);
+	fim;
+fim
+
+#subquatro
+inicio
+	subum;
+	subdois;
+	subtres;
+fim
+
+@principale
+	subum;
+	subdois;
+	subtres;
+	subquatro;
+	leias(x);
+	exibas(x);
+	sepah ((1>2) ou (7<3) ou (3>9)) inicio
+		sepah ((1>2)) inicio
+			sepah ((1>2)) inicio
+				subtres;
+			fim;
+			subum;
+		fim
+		nem inicio
+			subdois;
+		fim;
+	fim
+	nem inicio
+		subum;
+	fim;
+
+finale	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

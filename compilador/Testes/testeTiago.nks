@@ -1,0 +1,59 @@
+var
+	inteiro x,y;
+	real xr,yr;
+	letra vetorStringA,vetorStringB[100];
+
+
+inicio
+	var
+		inteiro x;
+		real kapito;
+		
+		x recebas y;
+		x recebas xr;
+		exibas($hello world$);
+		leias(x);
+		
+		sepah ((1>2) ou (7<3) ou (3>9)) inicio
+		sepah ((1>2)) inicio
+			sepah ((1>2)) inicio
+				subSegunda;
+			fim;
+			subPrimeira;
+		fim
+		nem inicio
+			subPrimeira;
+		fim;
+	fim
+	nem inicio
+		subSegunda;
+	fim;
+fim
+
+#subSegunda
+inicio
+var
+inteiro x;
+	leias(x);
+fim
+
+@principale
+	sepah((x > y))
+	inicio
+		x recebas y;
+		y recebas xr;
+	fim
+	nem
+	inicio
+		exibas(x);
+		exibas(y);
+	fim;
+	
+	leias(x);
+	subPrimeira;
+	subSegunda;
+	
+finale
+
+
+

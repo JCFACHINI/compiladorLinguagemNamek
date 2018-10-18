@@ -1,0 +1,43 @@
+var
+	inteiro x,y;
+	real xr,yr;
+	letra vetorStringA,vetorStringB[100];
+
+#subPrimeira
+inicio
+	var
+		inteiro x;
+		real kapito;
+	
+	x recebas y;
+	x recebas xr;
+	exibas($hello world$);
+	leias(x);
+fim
+
+#subSegunda
+inicio
+	leias(x);
+fim
+
+@principale
+	sepah((x > y))
+	inicio
+		x recebas y;
+		y recebas x;
+	fim
+	nem
+	inicio
+		exibas(x);
+		exibas(y);
+	fim;
+	
+	leias(x);
+	subPrimeira;
+	subSegunda;
+	
+finale
+	
+	
+
+
